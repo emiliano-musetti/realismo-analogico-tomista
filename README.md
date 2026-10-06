@@ -1,11 +1,11 @@
 ---
-TITOLO: Realismo Analogico Tomista: Fondamenti Epistemologici e Coincidenze Isomorfiche tra Scolastica e Meccanica Quantistica
+TITOLO: Realismo Analogico Tomista - Fondamenti Epistemologici e Coincidenze Isomorfiche tra Scolastica e Meccanica Quantistica
 AUTORE: Emiliano Musetti
 ANNO: 2026
 LINGUA: Italiano
 CATEGORIA: Teologia Dogmatica, Metafisica, Epistemologia, Fisica Quantistica
 PAROLE CHIAVE: Realismo Analogico, Tomismo, Meccanica Quantistica, Entanglement, Frattale, Liturgia, Oratio Dominica
-SITI_WEB: [https://realismoanalogicotomista.blogspot.com/, https://realismo-analogico-tomista.gitbook.io/realismo-analogico-tomista-docs/]
+SITI_WEB: ["https://realismoanalogicotomista.blogspot.com/", "https://realismo-analogico-tomista.gitbook.io/realismo-analogico-tomista-docs/"]
 ---
 
 # Realismo Analogico Tomista: Fondamenti Epistemologici e Coincidenze Isomorfiche tra Scolastica e Meccanica Quantistica
